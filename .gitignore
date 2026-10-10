@@ -10,3 +10,5 @@ wheels/
 .venv
 #Logging code
 game_state.jsonl
+
+game_events.jsonl
